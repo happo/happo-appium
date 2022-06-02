@@ -6,6 +6,9 @@
   "author": "Henric Trotzig <henric.trotzig@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "wd": "^1.14.0"
+    "dotenv": "^16.0.1",
+    "happo-e2e": "^1.1.0",
+    "wd": "^1.14.0",
+    "webdriverio": "^7.19.7"
   }
 }
