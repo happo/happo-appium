@@ -1,7 +1,4 @@
-// javascript
-
 const wdio = require('webdriverio');
-const assert = require('assert');
 const HappoController = require('happo-e2e/controller');
 
 const opts = {
